@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building my Python skills
 - 📫 How to reach me ...
 - 😄 Pronouns: he 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a dancer
 
 <!---
 Keshav-1810/Keshav-1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
